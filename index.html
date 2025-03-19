@@ -101,10 +101,9 @@
 </head>
 <body>
     <div class="container">
-        <br>
         <div class="progress-labels">
-            <span>KASET</span>
-            <span>SSD</span>
+            <span>ANDA GOBLOK</span>
+            <span>ANDA BUKAN NPC</span>
         </div>
         <div class="progress-container">
             <div class="progress-bar-left" id="progressBarLeft"></div>
@@ -112,9 +111,15 @@
         </div>
         <p class="stats">Benar: <span id="correctCount">0</span> | Salah: <span id="wrongCount">0</span></p>
         <h2 id="question-title"></h2>
+        <p id="correct-answer" style="display:none; font-weight:bold; color:#ffff; font-size: 18px;"></p>
+
+
         <p id="question-text" style="font-size: 20px; font-weight: 500;"></p>
         <div id="options"></div>
         <p id="explanation" class="explanation"></p>
+
+
+
         <button id="nextBtn" style="display:none; margin-top: 20px; padding: 15px; border: none; border-radius: 10px; background: #28a745; color: white; font-size: 18px; cursor: pointer;" onclick="nextQuestion()">Soal Selanjutnya</button>
     </div>
     
@@ -195,6 +200,43 @@
         }
 
         loadQuestion();
+        function checkAnswer(element, option) {
+        if (answered) return;
+        answered = true;
+
+        let step = 50 / totalQuestions;
+        let progressLeft = parseFloat(document.getElementById('progressBarLeft').style.width) || 50;
+        let progressRight = parseFloat(document.getElementById('progressBarRight').style.width) || 50;
+
+        const questionKey = `soal_${currentQuestionIndex}`;
+        const correctOptionKey = Object.keys(questions[questionKey].pilihan).find(key => questions[questionKey].pilihan[key].status);
+        const correctAnswerText = `Jawaban Benar: ${correctOptionKey.toUpperCase()}`;
+
+        if (option.status) {
+            element.classList.add('correct');
+            progressRight = Math.min(100, progressRight + step);
+            progressLeft = Math.max(0, progressLeft - step);
+            correctCount++;
+        } else {
+            element.classList.add('incorrect');
+            progressLeft = Math.min(100, progressLeft + step);
+            progressRight = Math.max(0, progressRight - step);
+            wrongCount++;
+        }
+
+        document.getElementById('progressBarLeft').style.width = progressLeft + '%';
+        document.getElementById('progressBarRight').style.width = progressRight + '%';
+        document.getElementById('correctCount').innerText = correctCount;
+        document.getElementById('wrongCount').innerText = wrongCount;
+        document.getElementById('nextBtn').style.display = 'block';
+
+        document.getElementById('explanation').innerText = option.penjelasan;
+        document.getElementById('explanation').style.display = 'block';
+
+        document.getElementById('correct-answer').innerText = correctAnswerText;
+        document.getElementById('correct-answer').style.display = 'block';
+    }
     </script>
+
 </body>
 </html>
