@@ -1,0 +1,1874 @@
+{
+    "soal_1": {
+        "pertanyaan": "Apa yang dimaksud dengan Sistem Informasi (SI)?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Kombinasi teknologi informasi, manusia, dan proses bisnis",
+                "status": true,
+                "penjelasan": "Jawaban benar, SI adalah kombinasi dari teknologi informasi, manusia, dan proses bisnis."
+            },
+            "b": {
+                "jawaban": "Sebuah sistem komputer yang hanya menyimpan data",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI tidak hanya menyimpan data, tetapi juga mengelola dan menyebarkannya."
+            },
+            "c": {
+                "jawaban": "Teknologi yang digunakan untuk menggantikan manusia dalam pekerjaan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI melibatkan manusia dalam proses bisnis, bukan menggantikannya sepenuhnya."
+            },
+            "d": {
+                "jawaban": "Sekumpulan perangkat keras yang bekerja sendiri tanpa campur tangan manusia",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI melibatkan manusia dan proses bisnis, bukan hanya perangkat keras."
+            }
+        }
+    },
+    "soal_2": {
+        "pertanyaan": "Salah satu fungsi utama Sistem Informasi adalah...",
+        "pilihan": {
+            "a": {
+                "jawaban": "Menganalisis data untuk membantu pengambilan keputusan",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena SI digunakan untuk menganalisis data dan membantu dalam pengambilan keputusan."
+            },
+            "b": {
+                "jawaban": "Hanya untuk menyimpan data tanpa mengolahnya",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI tidak hanya menyimpan tetapi juga mengolah data."
+            },
+            "c": {
+                "jawaban": "Mengganti seluruh pekerjaan manusia dengan sistem otomatis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI dirancang untuk membantu manusia, bukan menggantikannya sepenuhnya."
+            },
+            "d": {
+                "jawaban": "Menjalankan sistem tanpa ada interaksi dengan pengguna",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI selalu melibatkan pengguna dalam operasionalnya."
+            }
+        }
+    },
+    "soal_3": {
+        "pertanyaan": "Apa tujuan utama dari Sistem Informasi dalam suatu organisasi?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Membantu pengambilan keputusan berdasarkan informasi yang diolah",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena tujuan utama SI adalah membantu pengambilan keputusan."
+            },
+            "b": {
+                "jawaban": "Menghilangkan kebutuhan manusia dalam pengelolaan informasi",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena manusia tetap berperan dalam SI."
+            },
+            "c": {
+                "jawaban": "Mengumpulkan sebanyak mungkin data tanpa peduli kegunaannya",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI bukan hanya mengumpulkan data, tetapi juga mengelolanya."
+            },
+            "d": {
+                "jawaban": "Menggunakan teknologi canggih tanpa memperhatikan efisiensi",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI juga mempertimbangkan efisiensi dalam penggunaannya."
+            }
+        }
+    },
+
+
+    "soal_4": {
+        "pertanyaan": "Apa peran manusia dalam Sistem Informasi?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Sebagai pengguna yang mengelola, menganalisis, dan mengambil keputusan berdasarkan informasi",
+                "status": true,
+                "penjelasan": "Jawaban benar, manusia memiliki peran penting dalam mengelola dan mengambil keputusan berdasarkan informasi yang disediakan oleh SI."
+            },
+            "b": {
+                "jawaban": "Sebagai pengganti dari sistem otomatis yang bekerja sendiri",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI dirancang untuk membantu manusia, bukan menggantikannya."
+            },
+            "c": {
+                "jawaban": "Hanya sebagai pengamat tanpa interaksi dengan sistem",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena manusia berinteraksi secara aktif dengan SI."
+            },
+            "d": {
+                "jawaban": "Menjalankan sistem tanpa perlu memahami cara kerjanya",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena pemahaman sistem diperlukan untuk menggunakannya secara efektif."
+            }
+        }
+    },
+    "soal_5": {
+        "pertanyaan": "Teknologi informasi dalam Sistem Informasi digunakan untuk...",
+        "pilihan": {
+            "a": {
+                "jawaban": "Mendukung pengumpulan, pengolahan, penyimpanan, dan penyebaran informasi",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena teknologi informasi berperan dalam berbagai aspek dalam SI."
+            },
+            "b": {
+                "jawaban": "Menggantikan kebutuhan manusia dalam mengambil keputusan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena teknologi informasi hanya mendukung, bukan menggantikan manusia."
+            },
+            "c": {
+                "jawaban": "Hanya untuk menyimpan data tanpa diproses",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena teknologi informasi juga mengolah dan menyebarkan data."
+            },
+            "d": {
+                "jawaban": "Membantu organisasi menghasilkan keuntungan tanpa strategi bisnis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena strategi bisnis tetap diperlukan meskipun menggunakan teknologi informasi."
+            }
+        }
+    },
+    "soal_6": {
+        "pertanyaan": "Mengapa Sistem Informasi penting dalam pengambilan keputusan?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Karena membantu menyediakan informasi yang akurat dan relevan",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena SI memberikan data yang dapat diandalkan untuk mendukung keputusan."
+            },
+            "b": {
+                "jawaban": "Karena membuat keputusan tanpa perlu analisis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena keputusan tetap memerlukan analisis."
+            },
+            "c": {
+                "jawaban": "Karena menghilangkan semua risiko dalam bisnis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena risiko tetap ada meskipun menggunakan SI."
+            },
+            "d": {
+                "jawaban": "Karena menggantikan peran manajer dalam organisasi",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI mendukung manajer, bukan menggantikannya."
+            }
+        }
+    },
+    "soal_7": {
+        "pertanyaan": "Proses bisnis dalam Sistem Informasi melibatkan...",
+        "pilihan": {
+            "a": {
+                "jawaban": "Pengumpulan, pengolahan, penyimpanan, dan penyebaran informasi",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena proses bisnis dalam SI mencakup semua tahapan ini."
+            },
+            "b": {
+                "jawaban": "Hanya pengumpulan informasi tanpa pengolahan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena informasi perlu diolah agar berguna."
+            },
+            "c": {
+                "jawaban": "Menghilangkan kebutuhan akan manusia dalam sistem",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena manusia tetap berperan dalam SI."
+            },
+            "d": {
+                "jawaban": "Hanya menyebarkan informasi tanpa analisis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena informasi yang disebarkan harus dianalisis terlebih dahulu."
+            }
+        }
+    },
+
+
+    "soal_8": {
+        "pertanyaan": "Apa yang dimaksud dengan pengolahan informasi dalam Sistem Informasi?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Proses mengubah data mentah menjadi informasi yang berguna",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena pengolahan informasi bertujuan untuk menghasilkan data yang lebih bermakna."
+            },
+            "b": {
+                "jawaban": "Hanya menyimpan data tanpa mengubahnya",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena pengolahan berarti ada perubahan atau analisis data."
+            },
+            "c": {
+                "jawaban": "Menyebarkan data ke berbagai pengguna tanpa pemrosesan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena informasi harus diproses sebelum didistribusikan."
+            },
+            "d": {
+                "jawaban": "Menghapus informasi yang tidak diperlukan tanpa analisis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena informasi yang dihapus harus melalui analisis terlebih dahulu."
+            }
+        }
+    },
+    "soal_9": {
+        "pertanyaan": "Penyimpanan informasi dalam Sistem Informasi bertujuan untuk...",
+        "pilihan": {
+            "a": {
+                "jawaban": "Memungkinkan akses data di masa mendatang",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena penyimpanan data memungkinkan akses kembali di kemudian hari."
+            },
+            "b": {
+                "jawaban": "Menghapus informasi setelah digunakan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena penyimpanan bertujuan untuk menyimpan, bukan menghapus."
+            },
+            "c": {
+                "jawaban": "Menghindari penggunaan informasi dalam keputusan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena penyimpanan justru mendukung pengambilan keputusan."
+            },
+            "d": {
+                "jawaban": "Mengumpulkan sebanyak mungkin data tanpa tujuan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena penyimpanan harus memiliki tujuan yang jelas."
+            }
+        }
+    },
+    "soal_10": {
+        "pertanyaan": "Mengapa penyebaran informasi dalam Sistem Informasi penting?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Agar informasi dapat digunakan oleh pihak yang membutuhkan",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena penyebaran informasi memastikan data sampai ke pengguna yang membutuhkannya."
+            },
+            "b": {
+                "jawaban": "Agar semua data dapat dikonsumsi oleh siapa saja tanpa kontrol",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena penyebaran informasi harus memiliki batasan akses yang jelas."
+            },
+            "c": {
+                "jawaban": "Untuk menghapus informasi yang tidak diperlukan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena penyebaran bukan bertujuan untuk menghapus data."
+            },
+            "d": {
+                "jawaban": "Agar data tidak lagi perlu disimpan",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena data tetap perlu disimpan setelah disebarkan."
+            }
+        }
+    },
+    "soal_11": {
+        "pertanyaan": "Manakah yang bukan termasuk dalam komponen utama Sistem Informasi?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Keamanan data",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena keamanan data adalah aspek penting dalam SI."
+            },
+            "b": {
+                "jawaban": "Perangkat keras",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena perangkat keras adalah komponen penting dalam SI."
+            },
+            "c": {
+                "jawaban": "Proses bisnis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena proses bisnis adalah bagian dari SI."
+            },
+            "d": {
+                "jawaban": "Hewan peliharaan",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena hewan peliharaan tidak memiliki hubungan dengan SI."
+            }
+        }
+    },
+    "soal_12": {
+        "pertanyaan": "Apa yang terjadi jika Sistem Informasi tidak digunakan dalam organisasi?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Keputusan bisnis bisa kurang akurat karena kurangnya data yang terorganisir",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena tanpa SI, data tidak dapat diorganisir dan dianalisis dengan baik."
+            },
+            "b": {
+                "jawaban": "Organisasi tetap berjalan lebih efisien tanpa teknologi",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena teknologi justru meningkatkan efisiensi."
+            },
+            "c": {
+                "jawaban": "Data menjadi lebih cepat tersedia tanpa sistem",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena tanpa SI, data akan sulit diakses dengan cepat."
+            },
+            "d": {
+                "jawaban": "Keamanan data menjadi lebih kuat",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena tanpa SI, keamanan data lebih rentan terhadap risiko."
+            }
+        }
+    },
+    "soal_13": {
+        "pertanyaan": "Apa hubungan antara proses bisnis dan Sistem Informasi?",
+        "pilihan": {
+            "a": {
+                "jawaban": "SI mendukung proses bisnis dengan menyediakan data yang dibutuhkan",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena SI membantu proses bisnis dengan menyediakan informasi yang relevan."
+            },
+            "b": {
+                "jawaban": "SI menghilangkan kebutuhan akan proses bisnis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena proses bisnis tetap diperlukan meskipun ada SI."
+            },
+            "c": {
+                "jawaban": "SI hanya berfungsi untuk menyimpan data tanpa berpengaruh pada bisnis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI berperan aktif dalam proses bisnis."
+            },
+            "d": {
+                "jawaban": "Proses bisnis bisa berjalan lebih lambat dengan adanya SI",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena SI justru mempercepat dan meningkatkan efisiensi proses bisnis."
+            }
+        }
+    },
+    "soal_14": {
+        "pertanyaan": "Mengapa informasi dalam Sistem Informasi harus akurat?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Agar keputusan yang diambil berdasarkan data tersebut dapat lebih tepat",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena informasi yang tidak akurat bisa menyebabkan keputusan yang salah."
+            },
+            "b": {
+                "jawaban": "Karena data yang salah lebih mudah diolah",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena data yang salah justru membuat pengolahan lebih sulit."
+            },
+            "c": {
+                "jawaban": "Agar pengguna tidak perlu lagi menganalisis data",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena pengguna tetap perlu menganalisis informasi yang diberikan."
+            },
+            "d": {
+                "jawaban": "Karena data yang tidak akurat tidak akan berdampak pada bisnis",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena informasi yang tidak akurat bisa merugikan bisnis."
+            }
+        }
+    },
+    "soal_15": {
+        "pertanyaan": "Apa perbedaan utama antara data dan informasi dalam Sistem Informasi?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Data adalah kumpulan fakta mentah, sedangkan informasi adalah data yang telah diolah",
+                "status": true,
+                "penjelasan": "Jawaban benar, karena informasi berasal dari data yang telah diproses."
+            },
+            "b": {
+                "jawaban": "Data selalu lebih berguna daripada informasi",
+                "status": false,
+                "penjelasan": "Jawaban salah, karena informasi lebih bernilai karena telah diproses."
+            }
+        }
+    },
+    "soal_16": {
+        "pertanyaan": "Apa fungsi utama dari perangkat keras (hardware) dalam sistem komputer?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Mengolah, menyimpan, dan menampilkan data",
+                "status": true,
+                "penjelasan": "Perangkat keras berfungsi untuk mengolah, menyimpan, dan menampilkan data agar dapat digunakan oleh pengguna."
+            },
+            "b": {
+                "jawaban": "Mengatur jaringan internet",
+                "status": false,
+                "penjelasan": "Fungsi utama perangkat keras bukan untuk mengatur jaringan internet, itu lebih berkaitan dengan software dan perangkat jaringan."
+            },
+            "c": {
+                "jawaban": "Menulis kode program",
+                "status": false,
+                "penjelasan": "Menulis kode program adalah tugas dari software dan brainware, bukan perangkat keras."
+            },
+            "d": {
+                "jawaban": "Menentukan algoritma pemrograman",
+                "status": false,
+                "penjelasan": "Menentukan algoritma adalah tugas dari brainware, bukan perangkat keras."
+            }
+        }
+    },
+    "soal_17": {
+        "pertanyaan": "Perangkat lunak (software) dalam sistem komputer berfungsi untuk?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Menjalankan instruksi yang diberikan oleh pengguna",
+                "status": true,
+                "penjelasan": "Software berfungsi untuk menjalankan instruksi dari pengguna agar sistem komputer dapat bekerja sesuai perintah."
+            },
+            "b": {
+                "jawaban": "Menyediakan daya listrik untuk komputer",
+                "status": false,
+                "penjelasan": "Penyediaan daya listrik adalah tugas perangkat keras seperti power supply, bukan software."
+            },
+            "c": {
+                "jawaban": "Menjalankan arus listrik dalam komponen komputer",
+                "status": false,
+                "penjelasan": "Arus listrik dikelola oleh perangkat keras, bukan software."
+            },
+            "d": {
+                "jawaban": "Mengubah sinyal listrik menjadi cahaya",
+                "status": false,
+                "penjelasan": "Mengubah sinyal listrik menjadi cahaya adalah fungsi dari perangkat tampilan seperti monitor, bukan software."
+            }
+        }
+    },
+    "soal_18": {
+        "pertanyaan": "Siapa yang termasuk dalam kategori brainware dalam sistem komputer?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Programmer, administrator sistem, dan pengguna",
+                "status": true,
+                "penjelasan": "Brainware adalah orang yang menggunakan dan mengelola sistem komputer, termasuk programmer, administrator sistem, dan pengguna."
+            },
+            "b": {
+                "jawaban": "CPU dan RAM",
+                "status": false,
+                "penjelasan": "CPU dan RAM adalah perangkat keras, bukan brainware."
+            },
+            "c": {
+                "jawaban": "Sistem operasi Windows atau Linux",
+                "status": false,
+                "penjelasan": "Windows dan Linux adalah software, bukan brainware."
+            },
+            "d": {
+                "jawaban": "Harddisk dan SSD",
+                "status": false,
+                "penjelasan": "Harddisk dan SSD termasuk perangkat keras, bukan brainware."
+            }
+        }
+    },
+    "soal_19": {
+        "pertanyaan": "Apa yang membedakan software dengan hardware?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Software tidak dapat disentuh secara fisik, sedangkan hardware dapat",
+                "status": true,
+                "penjelasan": "Software adalah program yang tidak berwujud fisik, sedangkan hardware adalah komponen fisik yang dapat disentuh."
+            },
+            "b": {
+                "jawaban": "Software lebih mahal dibanding hardware",
+                "status": false,
+                "penjelasan": "Harga software dan hardware bervariasi, tidak selalu lebih mahal software."
+            },
+            "c": {
+                "jawaban": "Software membutuhkan daya listrik, sedangkan hardware tidak",
+                "status": false,
+                "penjelasan": "Hardware yang membutuhkan daya listrik untuk bekerja, software sendiri adalah kode yang dijalankan di dalam hardware."
+            },
+            "d": {
+                "jawaban": "Hardware bisa diperbarui secara online, sedangkan software tidak",
+                "status": false,
+                "penjelasan": "Software dapat diperbarui secara online, sedangkan hardware perlu diganti atau ditingkatkan secara fisik."
+            }
+        }
+    },
+    "soal_20": {
+        "pertanyaan": "Manakah yang termasuk contoh perangkat keras (hardware)?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Keyboard, monitor, printer",
+                "status": true,
+                "penjelasan": "Keyboard, monitor, dan printer adalah perangkat keras yang digunakan dalam sistem komputer."
+            },
+            "b": {
+                "jawaban": "Microsoft Word, Google Chrome, Photoshop",
+                "status": false,
+                "penjelasan": "Microsoft Word, Google Chrome, dan Photoshop adalah perangkat lunak (software), bukan hardware."
+            },
+            "c": {
+                "jawaban": "Pengguna, programmer, administrator sistem",
+                "status": false,
+                "penjelasan": "Ini adalah contoh brainware, bukan hardware."
+            },
+            "d": {
+                "jawaban": "RAM, CPU, software",
+                "status": false,
+                "penjelasan": "RAM dan CPU adalah hardware, tetapi software bukan."
+            }
+        }
+    },
+    "soal_21": {
+        "pertanyaan": "Perangkat lunak (software) yang digunakan untuk mengolah dokumen teks adalah?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Microsoft Word",
+                "status": true,
+                "penjelasan": "Microsoft Word adalah software yang digunakan untuk mengolah dokumen teks."
+            },
+            "b": {
+                "jawaban": "Google Chrome",
+                "status": false,
+                "penjelasan": "Google Chrome adalah software untuk menjelajahi internet, bukan mengolah dokumen teks."
+            },
+            "c": {
+                "jawaban": "CPU",
+                "status": false,
+                "penjelasan": "CPU adalah perangkat keras, bukan software."
+            },
+            "d": {
+                "jawaban": "RAM",
+                "status": false,
+                "penjelasan": "RAM adalah perangkat keras untuk menyimpan data sementara, bukan software."
+            }
+        }
+    },
+    "soal_22": {
+        "pertanyaan": "Siapa yang bertanggung jawab dalam membuat program komputer?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Programmer",
+                "status": true,
+                "penjelasan": "Programmer adalah orang yang bertanggung jawab dalam menulis dan mengembangkan program komputer."
+            },
+            "b": {
+                "jawaban": "Monitor",
+                "status": false,
+                "penjelasan": "Monitor adalah perangkat keras, bukan seseorang yang membuat program."
+            },
+            "c": {
+                "jawaban": "Microsoft Word",
+                "status": false,
+                "penjelasan": "Microsoft Word adalah software, bukan orang yang membuat program."
+            },
+            "d": {
+                "jawaban": "Harddisk",
+                "status": false,
+                "penjelasan": "Harddisk adalah perangkat penyimpanan, bukan orang yang membuat program."
+            }
+        }
+    },
+    "soal_23": {
+        "pertanyaan": "Komponen yang berfungsi untuk menyimpan data secara permanen dalam komputer adalah?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Harddisk",
+                "status": true,
+                "penjelasan": "Harddisk adalah perangkat penyimpanan permanen dalam komputer."
+            },
+            "b": {
+                "jawaban": "RAM",
+                "status": false,
+                "penjelasan": "RAM menyimpan data sementara, bukan secara permanen."
+            },
+            "c": {
+                "jawaban": "Processor",
+                "status": false,
+                "penjelasan": "Processor bertanggung jawab untuk pemrosesan data, bukan penyimpanan permanen."
+            },
+            "d": {
+                "jawaban": "Keyboard",
+                "status": false,
+                "penjelasan": "Keyboard adalah perangkat input, bukan penyimpanan data."
+            }
+        }
+    },
+    "soal_24": {
+        "pertanyaan": "Apa yang dimaksud dengan firmware?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Perangkat lunak yang tertanam dalam perangkat keras",
+                "status": true,
+                "penjelasan": "Firmware adalah software yang tertanam dalam perangkat keras untuk mengontrol cara kerjanya."
+            },
+            "b": {
+                "jawaban": "Perangkat lunak untuk membuat dokumen",
+                "status": false,
+                "penjelasan": "Software untuk membuat dokumen seperti Microsoft Word bukan firmware."
+            },
+            "c": {
+                "jawaban": "Program yang hanya berjalan di internet",
+                "status": false,
+                "penjelasan": "Firmware tertanam dalam perangkat keras, bukan program berbasis internet."
+            },
+            "d": {
+                "jawaban": "Sebuah perangkat keras yang dapat diprogram",
+                "status": false,
+                "penjelasan": "Firmware adalah software, bukan perangkat keras."
+            }
+        }
+    },
+    "soal_25": {
+        "pertanyaan": "Sistem operasi termasuk dalam kategori?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Software",
+                "status": true,
+                "penjelasan": "Sistem operasi adalah software yang mengelola perangkat keras dan perangkat lunak dalam komputer."
+            },
+            "b": {
+                "jawaban": "Hardware",
+                "status": false,
+                "penjelasan": "Hardware adalah perangkat keras fisik, sedangkan sistem operasi adalah software."
+            },
+            "c": {
+                "jawaban": "Brainware",
+                "status": false,
+                "penjelasan": "Brainware adalah manusia yang menggunakan komputer, bukan sistem operasi."
+            },
+            "d": {
+                "jawaban": "Firmware",
+                "status": false,
+                "penjelasan": "Firmware adalah software yang tertanam dalam hardware, berbeda dari sistem operasi."
+            }
+        }
+    },
+    "soal_26": {
+        "pertanyaan": "Siapa yang bertanggung jawab untuk mengelola dan menjaga sistem komputer dalam suatu organisasi?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Administrator sistem",
+                "status": true,
+                "penjelasan": "Administrator sistem bertanggung jawab dalam mengelola dan menjaga sistem komputer dalam suatu organisasi."
+            },
+            "b": {
+                "jawaban": "Monitor",
+                "status": false,
+                "penjelasan": "Monitor adalah perangkat keras, bukan seseorang yang bertanggung jawab atas sistem."
+            },
+            "c": {
+                "jawaban": "Harddisk",
+                "status": false,
+                "penjelasan": "Harddisk adalah perangkat penyimpanan, bukan pengelola sistem."
+            },
+            "d": {
+                "jawaban": "Printer",
+                "status": false,
+                "penjelasan": "Printer adalah perangkat output, bukan pengelola sistem."
+            }
+        }
+    },
+    "soal_27": {
+        "pertanyaan": "Apa fungsi utama dari CPU dalam sistem komputer?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Memproses data dan menjalankan instruksi",
+                "status": true,
+                "penjelasan": "CPU bertanggung jawab untuk memproses data dan menjalankan instruksi dalam komputer."
+            },
+            "b": {
+                "jawaban": "Menyimpan data secara permanen",
+                "status": false,
+                "penjelasan": "Menyimpan data secara permanen adalah fungsi dari harddisk, bukan CPU."
+            },
+            "c": {
+                "jawaban": "Menampilkan informasi kepada pengguna",
+                "status": false,
+                "penjelasan": "Menampilkan informasi adalah fungsi dari monitor, bukan CPU."
+            },
+            "d": {
+                "jawaban": "Menghubungkan komputer ke internet",
+                "status": false,
+                "penjelasan": "Menghubungkan komputer ke internet adalah tugas dari kartu jaringan atau modem, bukan CPU."
+            }
+        }
+    },
+    "soal_28": {
+        "pertanyaan": "Manakah yang termasuk dalam kategori brainware?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Pengguna, programmer, administrator sistem",
+                "status": true,
+                "penjelasan": "Brainware mengacu pada manusia yang menggunakan atau mengelola sistem komputer."
+            },
+            "b": {
+                "jawaban": "RAM, CPU, harddisk",
+                "status": false,
+                "penjelasan": "RAM, CPU, dan harddisk termasuk dalam kategori hardware, bukan brainware."
+            },
+            "c": {
+                "jawaban": "Sistem operasi, aplikasi, firmware",
+                "status": false,
+                "penjelasan": "Sistem operasi, aplikasi, dan firmware adalah software, bukan brainware."
+            },
+            "d": {
+                "jawaban": "Keyboard, mouse, printer",
+                "status": false,
+                "penjelasan": "Keyboard, mouse, dan printer adalah perangkat keras (hardware), bukan brainware."
+            }
+        }
+    },
+    "soal_29": {
+        "pertanyaan": "Apa perbedaan utama antara hardware dan software?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Hardware adalah perangkat fisik, sedangkan software adalah program yang berjalan di dalamnya",
+                "status": true,
+                "penjelasan": "Hardware merujuk pada perangkat fisik komputer, sementara software adalah program yang dijalankan oleh komputer."
+            },
+            "b": {
+                "jawaban": "Hardware adalah sistem operasi, sedangkan software adalah perangkat keras",
+                "status": false,
+                "penjelasan": "Sistem operasi adalah software, bukan hardware."
+            },
+            "c": {
+                "jawaban": "Hardware digunakan untuk internet, sementara software digunakan untuk gaming",
+                "status": false,
+                "penjelasan": "Hardware dan software dapat digunakan untuk berbagai keperluan, tidak hanya internet atau gaming."
+            },
+            "d": {
+                "jawaban": "Hardware adalah data, sedangkan software adalah perangkat keras",
+                "status": false,
+                "penjelasan": "Data bukan termasuk hardware, dan software bukan perangkat keras."
+            }
+        }
+    },
+    
+    "soal_30": {
+        "pertanyaan": "Manakah pernyataan yang benar mengenai hubungan antara hardware, software, dan brainware?",
+        "pilihan": {
+            "a": {
+                "jawaban": "Ketiganya saling berhubungan dan membentuk sistem komputer yang berfungsi",
+                "status": true,
+                "penjelasan": "Hardware, software, dan brainware bekerja sama untuk membuat sistem komputer berjalan dengan baik."
+            },
+            "b": {
+                "jawaban": "Hardware bisa bekerja sendiri tanpa software",
+                "status": false,
+                "penjelasan": "Hardware membutuhkan software untuk menjalankan tugasnya."
+            },
+            "c": {
+                "jawaban": "Software tidak memerlukan hardware untuk berjalan",
+                "status": false,
+                "penjelasan": "Software membutuhkan hardware agar dapat dijalankan."
+            },
+            "d": {
+                "jawaban": "Brainware tidak penting dalam sistem komputer",
+                "status": false,
+                "penjelasan": "Brainware sangat penting karena manusia yang mengoperasikan dan mengelola komputer."
+            }
+        }
+    },
+
+        "soal_31": {
+            "pertanyaan": "Apa yang dimaksud dengan input dalam sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Data yang dimasukkan ke dalam sistem untuk diproses",
+                    "status": true,
+                    "penjelasan": "Input adalah data awal yang dimasukkan ke dalam sistem untuk diproses lebih lanjut."
+                },
+                "b": {
+                    "jawaban": "Hasil dari proses pengolahan data",
+                    "status": false,
+                    "penjelasan": "Hasil dari proses disebut output, bukan input."
+                },
+                "c": {
+                    "jawaban": "Proses mengubah data menjadi informasi",
+                    "status": false,
+                    "penjelasan": "Mengubah data menjadi informasi merupakan bagian dari proses, bukan input."
+                },
+                "d": {
+                    "jawaban": "Penyimpanan data dalam database",
+                    "status": false,
+                    "penjelasan": "Penyimpanan data merupakan bagian dari sistem penyimpanan, bukan input."
+                }
+            }
+        },
+        "soal_32": {
+            "pertanyaan": "Apa yang dilakukan dalam tahap proses pada sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Mengolah data yang telah dimasukkan menjadi informasi",
+                    "status": true,
+                    "penjelasan": "Tahap proses bertujuan mengubah data mentah menjadi informasi yang berguna."
+                },
+                "b": {
+                    "jawaban": "Mengambil data dari database",
+                    "status": false,
+                    "penjelasan": "Mengambil data dari database adalah bagian dari input atau output, bukan proses utama."
+                },
+                "c": {
+                    "jawaban": "Menyimpan informasi dalam sistem",
+                    "status": false,
+                    "penjelasan": "Penyimpanan informasi lebih terkait dengan database, bukan bagian utama dari proses."
+                },
+                "d": {
+                    "jawaban": "Menampilkan hasil informasi kepada pengguna",
+                    "status": false,
+                    "penjelasan": "Menampilkan hasil informasi merupakan bagian dari output, bukan proses."
+                }
+            }
+        },
+        "soal_33": {
+            "pertanyaan": "Apa yang dimaksud dengan output dalam sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Hasil dari pemrosesan data yang dapat digunakan oleh pengguna",
+                    "status": true,
+                    "penjelasan": "Output adalah informasi yang dihasilkan setelah data diproses."
+                },
+                "b": {
+                    "jawaban": "Data mentah yang dimasukkan ke dalam sistem",
+                    "status": false,
+                    "penjelasan": "Data mentah merupakan input, bukan output."
+                },
+                "c": {
+                    "jawaban": "Proses pengolahan data dalam sistem",
+                    "status": false,
+                    "penjelasan": "Proses pengolahan data termasuk dalam tahap proses, bukan output."
+                },
+                "d": {
+                    "jawaban": "Tempat penyimpanan data dalam sistem",
+                    "status": false,
+                    "penjelasan": "Penyimpanan data lebih terkait dengan database, bukan output."
+                }
+            }
+        },
+        "soal_34": {
+            "pertanyaan": "Komponen apa saja yang termasuk dalam teknologi sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Hardware, Software, Brainware, Database, Telecommunication, dan Management",
+                    "status": true,
+                    "penjelasan": "Semua komponen tersebut membentuk sistem informasi yang lengkap."
+                },
+                "b": {
+                    "jawaban": "Hardware dan Software saja",
+                    "status": false,
+                    "penjelasan": "Sistem informasi juga membutuhkan brainware, database, telecommunication, dan management."
+                },
+                "c": {
+                    "jawaban": "Hanya Brainware dan Software",
+                    "status": false,
+                    "penjelasan": "Hardware juga diperlukan agar sistem dapat berjalan."
+                },
+                "d": {
+                    "jawaban": "Hanya Hardware dan Brainware",
+                    "status": false,
+                    "penjelasan": "Software juga dibutuhkan untuk menjalankan sistem."
+                }
+            }
+        },
+        "soal_35": {
+            "pertanyaan": "Mengapa database penting dalam sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Menyimpan dan mengelola data yang digunakan dalam sistem",
+                    "status": true,
+                    "penjelasan": "Database adalah tempat penyimpanan utama untuk data yang dikelola oleh sistem informasi."
+                },
+                "b": {
+                    "jawaban": "Mengolah data menjadi informasi",
+                    "status": false,
+                    "penjelasan": "Mengolah data menjadi informasi adalah tugas dari software pemrosesan, bukan database."
+                },
+                "c": {
+                    "jawaban": "Menghubungkan pengguna dengan sistem",
+                    "status": false,
+                    "penjelasan": "Menghubungkan pengguna dengan sistem adalah tugas dari telecommunication."
+                },
+                "d": {
+                    "jawaban": "Menampilkan informasi kepada pengguna",
+                    "status": false,
+                    "penjelasan": "Menampilkan informasi merupakan tugas dari user interface, bukan database."
+                }
+            }
+        },
+        "soal_36": {
+            "pertanyaan": "Dalam sistem informasi, apa yang terjadi jika tidak ada proses?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Data tetap menjadi informasi yang dapat digunakan",
+                    "status": false,
+                    "penjelasan": "Tanpa proses, data tidak dapat diubah menjadi informasi yang bermanfaat."
+                },
+                "b": {
+                    "jawaban": "Data hanya akan tersimpan tanpa perubahan",
+                    "status": true,
+                    "penjelasan": "Tanpa proses, data hanya tersimpan tanpa mengalami pengolahan untuk menjadi informasi."
+                },
+                "c": {
+                    "jawaban": "Sistem akan tetap berjalan dengan baik",
+                    "status": false,
+                    "penjelasan": "Sistem informasi memerlukan proses agar dapat menjalankan fungsinya."
+                },
+                "d": {
+                    "jawaban": "Output tetap bisa dihasilkan tanpa proses",
+                    "status": false,
+                    "penjelasan": "Output hanya bisa diperoleh setelah melalui proses pengolahan data."
+                }
+            }
+        },
+        "soal_37": {
+            "pertanyaan": "Dalam suatu sistem informasi, manakah pernyataan yang paling benar mengenai telekomunikasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Komponen yang hanya digunakan untuk komunikasi suara",
+                    "status": false,
+                    "penjelasan": "Telekomunikasi dalam sistem informasi mencakup lebih dari sekadar komunikasi suara."
+                },
+                "b": {
+                    "jawaban": "Hanya penting jika sistem digunakan secara online",
+                    "status": false,
+                    "penjelasan": "Telekomunikasi juga berperan dalam transfer data dalam jaringan lokal, bukan hanya online."
+                },
+                "c": {
+                    "jawaban": "Memungkinkan data dan informasi berpindah dari satu tempat ke tempat lain",
+                    "status": true,
+                    "penjelasan": "Telekomunikasi berperan dalam memungkinkan pertukaran data dan informasi dalam sistem informasi."
+                },
+                "d": {
+                    "jawaban": "Tanpa telekomunikasi, sistem informasi tetap bisa berfungsi sepenuhnya",
+                    "status": false,
+                    "penjelasan": "Banyak sistem informasi bergantung pada telekomunikasi untuk bertukar data dan informasi."
+                }
+            }
+        },
+        "soal_38": {
+            "pertanyaan": "Peran utama brainware dalam sistem informasi adalah...",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Mengolah data tanpa bantuan software",
+                    "status": false,
+                    "penjelasan": "Brainware memerlukan software untuk mengolah data."
+                },
+                "b": {
+                    "jawaban": "Menjadi penghubung antara hardware dan software",
+                    "status": true,
+                    "penjelasan": "Brainware (manusia) berperan sebagai pengelola dan pengguna sistem informasi."
+                },
+                "c": {
+                    "jawaban": "Menyimpan data ke dalam sistem",
+                    "status": false,
+                    "penjelasan": "Penyimpanan data dilakukan oleh database, bukan langsung oleh brainware."
+                },
+                "d": {
+                    "jawaban": "Menghasilkan output tanpa memerlukan input",
+                    "status": false,
+                    "penjelasan": "Setiap output harus melalui proses yang memerlukan input terlebih dahulu."
+                }
+            }
+        },
+        "soal_39": {
+            "pertanyaan": "Jika software dalam sistem informasi tidak tersedia, maka...",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Hardware tetap bisa bekerja maksimal",
+                    "status": false,
+                    "penjelasan": "Hardware memerlukan software agar dapat berfungsi."
+                },
+                "b": {
+                    "jawaban": "Sistem informasi tetap bisa menghasilkan informasi",
+                    "status": false,
+                    "penjelasan": "Software diperlukan untuk mengolah data menjadi informasi."
+                },
+                "c": {
+                    "jawaban": "Sistem tidak bisa berjalan dengan baik",
+                    "status": true,
+                    "penjelasan": "Software adalah komponen penting dalam sistem informasi untuk memproses data."
+                },
+                "d": {
+                    "jawaban": "Brainware bisa menggantikan peran software sepenuhnya",
+                    "status": false,
+                    "penjelasan": "Brainware membutuhkan software untuk menjalankan sistem informasi."
+                }
+            }
+        },
+        "soal_40": {
+            "pertanyaan": "Manakah yang merupakan contoh dari output dalam sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Data yang dimasukkan oleh pengguna",
+                    "status": false,
+                    "penjelasan": "Data yang dimasukkan oleh pengguna adalah input, bukan output."
+                },
+                "b": {
+                    "jawaban": "Laporan keuangan yang dihasilkan sistem",
+                    "status": true,
+                    "penjelasan": "Laporan keuangan adalah contoh output karena merupakan hasil pemrosesan data."
+                },
+                "c": {
+                    "jawaban": "Perintah yang diberikan kepada sistem",
+                    "status": false,
+                    "penjelasan": "Perintah termasuk dalam kategori input, bukan output."
+                },
+                "d": {
+                    "jawaban": "Proses pemrosesan data",
+                    "status": false,
+                    "penjelasan": "Proses pemrosesan bukan output, tetapi bagian dari tahapan sistem informasi."
+                }
+            }
+        },
+        "soal_41": {
+            "pertanyaan": "Apa yang akan terjadi jika hardware tidak ada dalam sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Software tetap bisa berjalan tanpa masalah",
+                    "status": false,
+                    "penjelasan": "Software membutuhkan hardware sebagai tempat eksekusi programnya."
+                },
+                "b": {
+                    "jawaban": "Sistem informasi hanya akan berjalan dengan brainware saja",
+                    "status": false,
+                    "penjelasan": "Brainware membutuhkan hardware untuk menjalankan software dalam sistem informasi."
+                },
+                "c": {
+                    "jawaban": "Sistem tidak dapat berjalan sama sekali",
+                    "status": true,
+                    "penjelasan": "Hardware merupakan komponen utama dalam menjalankan software dan sistem informasi."
+                },
+                "d": {
+                    "jawaban": "Output tetap bisa dihasilkan dengan pengolahan manual",
+                    "status": false,
+                    "penjelasan": "Tanpa hardware, sistem informasi berbasis komputer tidak dapat menghasilkan output."
+                }
+            }
+        },
+        "soal_42": {
+            "pertanyaan": "Dalam proses sistem informasi, jika input salah, maka output yang dihasilkan akan...",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Tetap benar jika sistem sudah sempurna",
+                    "status": false,
+                    "penjelasan": "Jika input salah, output yang dihasilkan kemungkinan besar juga salah (garbage in, garbage out)."
+                },
+                "b": {
+                    "jawaban": "Berubah menjadi benar dengan sendirinya",
+                    "status": false,
+                    "penjelasan": "Sistem tidak dapat secara otomatis memperbaiki input yang salah."
+                },
+                "c": {
+                    "jawaban": "Bisa salah atau benar tergantung sistemnya",
+                    "status": true,
+                    "penjelasan": "Jika ada validasi atau koreksi dalam sistem, output bisa tetap benar; jika tidak, output akan salah."
+                },
+                "d": {
+                    "jawaban": "Tidak ada hubungan antara input dan output",
+                    "status": false,
+                    "penjelasan": "Output dalam sistem informasi bergantung pada input yang diberikan."
+                }
+            }
+        },
+        "soal_43": {
+            "pertanyaan": "Bagaimana peran database dalam sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Hanya sebagai tempat penyimpanan sementara",
+                    "status": false,
+                    "penjelasan": "Database menyimpan data secara permanen, bukan hanya sementara."
+                },
+                "b": {
+                    "jawaban": "Sebagai penghubung antara brainware dan telekomunikasi",
+                    "status": false,
+                    "penjelasan": "Database tidak berfungsi sebagai penghubung komunikasi, melainkan sebagai penyimpanan dan pengelolaan data."
+                },
+                "c": {
+                    "jawaban": "Mengelola dan menyimpan data agar dapat digunakan dalam sistem",
+                    "status": true,
+                    "penjelasan": "Database berperan sebagai tempat penyimpanan dan pengelolaan data dalam sistem informasi."
+                },
+                "d": {
+                    "jawaban": "Dapat menggantikan software dalam menjalankan sistem",
+                    "status": false,
+                    "penjelasan": "Database tidak dapat menggantikan software, karena hanya berfungsi untuk penyimpanan data."
+                }
+            }
+        },
+        "soal_44": {
+            "pertanyaan": "Jika dalam sebuah sistem informasi tidak terdapat brainware, maka...",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Sistem tetap bisa berjalan otomatis tanpa masalah",
+                    "status": false,
+                    "penjelasan": "Sistem tetap memerlukan manusia untuk pengoperasian, pemeliharaan, dan pengambilan keputusan."
+                },
+                "b": {
+                    "jawaban": "Sistem informasi akan berjalan tetapi tidak dapat digunakan secara maksimal",
+                    "status": true,
+                    "penjelasan": "Tanpa brainware, sistem mungkin bisa berjalan secara otomatis, tetapi tidak dapat dikendalikan atau digunakan secara efektif."
+                },
+                "c": {
+                    "jawaban": "Hardware akan menggantikan peran brainware",
+                    "status": false,
+                    "penjelasan": "Hardware tidak dapat menggantikan peran manusia dalam mengelola sistem informasi."
+                },
+                "d": {
+                    "jawaban": "Output yang dihasilkan akan selalu salah",
+                    "status": false,
+                    "penjelasan": "Sistem dapat menghasilkan output yang benar jika diatur dengan baik sebelumnya, meskipun tanpa brainware sistem tidak bisa digunakan secara dinamis."
+                }
+            }
+        },
+        "soal_45": {
+            "pertanyaan": "Peran utama dari proses dalam sistem informasi adalah...",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Menyimpan data tanpa mengubahnya",
+                    "status": false,
+                    "penjelasan": "Penyimpanan data adalah tugas database, bukan proses."
+                },
+                "b": {
+                    "jawaban": "Mengubah data mentah menjadi informasi yang berguna",
+                    "status": true,
+                    "penjelasan": "Proses dalam sistem informasi berfungsi untuk mengolah data mentah menjadi informasi yang memiliki nilai."
+                },
+                "c": {
+                    "jawaban": "Menampilkan informasi kepada pengguna",
+                    "status": false,
+                    "penjelasan": "Menampilkan informasi adalah bagian dari output, bukan proses."
+                },
+                "d": {
+                    "jawaban": "Menghapus data yang tidak diperlukan",
+                    "status": false,
+                    "penjelasan": "Menghapus data adalah bagian dari manajemen data, bukan proses utama dalam sistem informasi."
+                }
+            }
+        },
+        "soal_46": {
+            "pertanyaan": "Apa yang menjadi ciri utama sistem informasi tradisional?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Menggunakan kertas dan pulpen sebagai media utama",
+                    "status": true,
+                    "penjelasan": "Sistem informasi tradisional masih berbasis manual dengan pencatatan di kertas."
+                },
+                "b": {
+                    "jawaban": "Menggunakan database untuk menyimpan informasi",
+                    "status": false,
+                    "penjelasan": "Database merupakan fitur dari sistem yang lebih modern, bukan tradisional."
+                },
+                "c": {
+                    "jawaban": "Memanfaatkan AI dalam pengelolaan data",
+                    "status": false,
+                    "penjelasan": "AI baru digunakan dalam sistem informasi digital modern."
+                },
+                "d": {
+                    "jawaban": "Bergantung pada jaringan internet",
+                    "status": false,
+                    "penjelasan": "Internet belum digunakan dalam sistem informasi tradisional."
+                }
+            }
+        },
+        "soal_47": {
+            "pertanyaan": "Pada tahap evolusi sistem informasi, mekanisme berbasis komputer awal mulai menggantikan...",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Sistem informasi tradisional berbasis kertas",
+                    "status": true,
+                    "penjelasan": "Komputer awal mulai menggantikan pencatatan manual berbasis kertas."
+                },
+                "b": {
+                    "jawaban": "Sistem berbasis AI dan cloud",
+                    "status": false,
+                    "penjelasan": "AI dan cloud adalah bagian dari sistem informasi digital modern, bukan tahap komputer awal."
+                },
+                "c": {
+                    "jawaban": "Sistem berbasis internet",
+                    "status": false,
+                    "penjelasan": "Sistem berbasis internet muncul lebih belakangan dalam evolusi sistem informasi."
+                },
+                "d": {
+                    "jawaban": "Sistem database terpusat",
+                    "status": false,
+                    "penjelasan": "Sistem berbasis database datang setelah komputer awal."
+                }
+            }
+        },
+        "soal_48": {
+            "pertanyaan": "Apa kelemahan utama mekanisme berbasis komputer awal?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Masih bergantung pada media penyimpanan fisik seperti floppy disk",
+                    "status": true,
+                    "penjelasan": "Komputer awal masih menggunakan floppy disk yang memiliki kapasitas kecil dan rentan rusak."
+                },
+                "b": {
+                    "jawaban": "Sudah menggunakan cloud computing",
+                    "status": false,
+                    "penjelasan": "Cloud computing belum digunakan pada komputer awal."
+                },
+                "c": {
+                    "jawaban": "Memiliki kecepatan pemrosesan yang sangat tinggi",
+                    "status": false,
+                    "penjelasan": "Komputer awal memiliki keterbatasan dalam kecepatan pemrosesan dibandingkan teknologi saat ini."
+                },
+                "d": {
+                    "jawaban": "Tidak memerlukan brainware untuk mengoperasikannya",
+                    "status": false,
+                    "penjelasan": "Brainware tetap dibutuhkan untuk mengoperasikan sistem berbasis komputer awal."
+                }
+            }
+        },
+        "soal_49": {
+            "pertanyaan": "Mengapa sistem berbasis database lebih unggul dibandingkan mekanisme komputer awal?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Memungkinkan pengolahan dan penyimpanan data yang lebih terstruktur",
+                    "status": true,
+                    "penjelasan": "Database memungkinkan penyimpanan data yang lebih rapi, aman, dan mudah diakses."
+                },
+                "b": {
+                    "jawaban": "Menghilangkan kebutuhan akan hardware",
+                    "status": false,
+                    "penjelasan": "Sistem berbasis database masih memerlukan hardware untuk berjalan."
+                },
+                "c": {
+                    "jawaban": "Dapat berjalan tanpa software tambahan",
+                    "status": false,
+                    "penjelasan": "Database membutuhkan software manajemen seperti MySQL atau PostgreSQL untuk beroperasi."
+                },
+                "d": {
+                    "jawaban": "Tidak membutuhkan brainware dalam operasionalnya",
+                    "status": false,
+                    "penjelasan": "Brainware tetap dibutuhkan untuk mengelola dan mengoperasikan sistem database."
+                }
+            }
+        },
+        "soal_50": {
+            "pertanyaan": "Apa yang membedakan sistem berbasis jaringan dan internet dari sistem berbasis database?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Memungkinkan akses data secara online dan real-time",
+                    "status": true,
+                    "penjelasan": "Sistem berbasis jaringan dan internet memungkinkan data diakses dari berbagai lokasi secara online."
+                },
+                "b": {
+                    "jawaban": "Tidak lagi menggunakan server",
+                    "status": false,
+                    "penjelasan": "Sistem berbasis jaringan tetap memerlukan server untuk menyimpan dan mengelola data."
+                },
+                "c": {
+                    "jawaban": "Hanya bisa digunakan dalam jaringan lokal",
+                    "status": false,
+                    "penjelasan": "Sistem ini memungkinkan akses dari mana saja selama terhubung ke internet."
+                },
+                "d": {
+                    "jawaban": "Menggunakan metode penyimpanan manual",
+                    "status": false,
+                    "penjelasan": "Penyimpanan data sudah berbasis cloud atau server dalam sistem berbasis jaringan dan internet."
+                }
+            }
+        },
+        "soal_51": {
+            "pertanyaan": "Apa keuntungan utama dari sistem berbasis jaringan dan internet dibandingkan sistem berbasis database?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Data dapat diakses dari mana saja dengan koneksi internet",
+                    "status": true,
+                    "penjelasan": "Sistem berbasis jaringan memungkinkan akses data secara online tanpa harus berada di lokasi tertentu."
+                },
+                "b": {
+                    "jawaban": "Tidak memerlukan perangkat keras sama sekali",
+                    "status": false,
+                    "penjelasan": "Perangkat keras tetap diperlukan untuk menjalankan sistem ini, seperti server dan komputer."
+                },
+                "c": {
+                    "jawaban": "Tidak memerlukan keamanan tambahan",
+                    "status": false,
+                    "penjelasan": "Keamanan tetap menjadi prioritas dalam sistem berbasis jaringan agar data tidak mudah diretas."
+                },
+                "d": {
+                    "jawaban": "Hanya dapat digunakan untuk komunikasi, bukan penyimpanan data",
+                    "status": false,
+                    "penjelasan": "Sistem berbasis jaringan juga dapat digunakan untuk menyimpan dan mengelola data secara online."
+                }
+            }
+        },
+        "soal_52": {
+            "pertanyaan": "Teknologi apa yang mendukung sistem informasi digital modern?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Artificial Intelligence (AI) dan Cloud Computing",
+                    "status": true,
+                    "penjelasan": "AI dan Cloud Computing adalah bagian dari sistem informasi digital modern yang meningkatkan efisiensi dan otomatisasi."
+                },
+                "b": {
+                    "jawaban": "Floppy Disk dan Hard Drive eksternal",
+                    "status": false,
+                    "penjelasan": "Floppy Disk dan Hard Drive eksternal lebih banyak digunakan pada tahap komputer awal."
+                },
+                "c": {
+                    "jawaban": "Kertas dan mesin tik",
+                    "status": false,
+                    "penjelasan": "Kertas dan mesin tik termasuk dalam sistem informasi tradisional."
+                },
+                "d": {
+                    "jawaban": "Hanya komputer tanpa jaringan",
+                    "status": false,
+                    "penjelasan": "Sistem modern mengandalkan jaringan dan cloud untuk akses yang lebih luas dan fleksibel."
+                }
+            }
+        },
+        "soal_53": {
+            "pertanyaan": "Mengapa AI menjadi bagian penting dalam sistem informasi digital modern?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Dapat membantu otomatisasi dan analisis data secara cepat",
+                    "status": true,
+                    "penjelasan": "AI digunakan untuk mengolah data dengan lebih cepat dan otomatis, mengurangi pekerjaan manual."
+                },
+                "b": {
+                    "jawaban": "Menggantikan semua peran manusia dalam pengelolaan data",
+                    "status": false,
+                    "penjelasan": "Meskipun AI dapat mengotomatiskan banyak proses, manusia masih berperan dalam pengambilan keputusan dan pengelolaan data."
+                },
+                "c": {
+                    "jawaban": "Tidak membutuhkan hardware untuk berjalan",
+                    "status": false,
+                    "penjelasan": "AI tetap membutuhkan hardware yang kuat seperti server dan prosesor khusus untuk menjalankan pemrosesan data."
+                },
+                "d": {
+                    "jawaban": "Menghilangkan kebutuhan akan database",
+                    "status": false,
+                    "penjelasan": "AI masih membutuhkan database sebagai tempat penyimpanan data yang akan diproses."
+                }
+            }
+        },
+        "soal_54": {
+            "pertanyaan": "Cloud computing dalam sistem informasi modern berfungsi untuk...",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Menyimpan dan mengelola data secara online",
+                    "status": true,
+                    "penjelasan": "Cloud computing memungkinkan penyimpanan dan pengelolaan data secara fleksibel melalui internet."
+                },
+                "b": {
+                    "jawaban": "Mengganti peran brainware dalam pengelolaan data",
+                    "status": false,
+                    "penjelasan": "Brainware tetap berperan penting dalam mengelola data meskipun cloud computing digunakan."
+                },
+                "c": {
+                    "jawaban": "Menghilangkan kebutuhan akan perangkat keras",
+                    "status": false,
+                    "penjelasan": "Meskipun data disimpan di cloud, perangkat keras tetap dibutuhkan untuk mengakses dan mengolahnya."
+                },
+                "d": {
+                    "jawaban": "Menjalankan program tanpa memerlukan jaringan",
+                    "status": false,
+                    "penjelasan": "Cloud computing bergantung pada jaringan internet agar dapat diakses dari mana saja."
+                }
+            }
+        },
+        "soal_55": {
+            "pertanyaan": "Salah satu tantangan utama dalam sistem informasi digital modern adalah...",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Keamanan dan privasi data",
+                    "status": true,
+                    "penjelasan": "Dalam sistem digital modern, ancaman keamanan siber dan perlindungan privasi menjadi tantangan utama."
+                },
+                "b": {
+                    "jawaban": "Ketergantungan pada kertas dan dokumen fisik",
+                    "status": false,
+                    "penjelasan": "Sistem informasi digital justru mengurangi ketergantungan pada kertas."
+                },
+                "c": {
+                    "jawaban": "Keharusan menggunakan floppy disk",
+                    "status": false,
+                    "penjelasan": "Floppy disk sudah tidak lagi digunakan dalam sistem informasi modern."
+                },
+                "d": {
+                    "jawaban": "Sulitnya menghubungkan dengan perangkat lain",
+                    "status": false,
+                    "penjelasan": "Sistem modern justru dirancang agar mudah diintegrasikan dengan berbagai perangkat dan layanan."
+                }
+            }
+        },
+        "soal_56": {
+            "pertanyaan": "Manakah dari berikut yang merupakan evolusi sistem informasi yang benar?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Tradisional → Komputer Awal → Database → Jaringan & Internet → Digital Modern",
+                    "status": true,
+                    "penjelasan": "Evolusi sistem informasi berkembang dari metode tradisional hingga digital modern dengan AI dan cloud."
+                },
+                "b": {
+                    "jawaban": "Digital Modern → Komputer Awal → Database → Tradisional",
+                    "status": false,
+                    "penjelasan": "Evolusi sistem informasi bergerak maju, bukan mundur ke metode tradisional."
+                },
+                "c": {
+                    "jawaban": "Komputer Awal → Tradisional → Database → Digital Modern",
+                    "status": false,
+                    "penjelasan": "Sistem tradisional datang sebelum komputer awal, bukan setelahnya."
+                },
+                "d": {
+                    "jawaban": "Jaringan & Internet → Database → Tradisional → Digital Modern",
+                    "status": false,
+                    "penjelasan": "Database digunakan sebelum jaringan & internet berkembang luas."
+                }
+            }
+        },
+        "soal_57": {
+            "pertanyaan": "Apa peran utama API dalam sistem informasi digital modern?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Menghubungkan berbagai sistem dan layanan secara fleksibel",
+                    "status": true,
+                    "penjelasan": "API memungkinkan berbagai sistem dan aplikasi untuk saling terhubung dan berbagi data."
+                },
+                "b": {
+                    "jawaban": "Menggantikan database dalam penyimpanan data",
+                    "status": false,
+                    "penjelasan": "API digunakan untuk integrasi, bukan sebagai tempat penyimpanan data utama."
+                },
+                "c": {
+                    "jawaban": "Menghapus kebutuhan akan jaringan internet",
+                    "status": false,
+                    "penjelasan": "Sebagian besar API membutuhkan jaringan untuk menghubungkan berbagai layanan."
+                },
+                "d": {
+                    "jawaban": "Menghilangkan kebutuhan akan software",
+                    "status": false,
+                    "penjelasan": "API bekerja bersama software, bukan menggantikannya."
+                }
+            }
+        },
+        "soal_58": {
+            "pertanyaan": "Mengapa sistem berbasis database lebih efisien dibandingkan sistem berbasis komputer awal?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Dapat menyimpan dan mengelola data dalam jumlah besar secara terstruktur",
+                    "status": true,
+                    "penjelasan": "Sistem berbasis database memungkinkan pengelolaan data yang lebih rapi dan efisien."
+                },
+                "b": {
+                    "jawaban": "Tidak membutuhkan perangkat keras",
+                    "status": false,
+                    "penjelasan": "Sistem database tetap memerlukan perangkat keras untuk menjalankannya."
+                },
+                "c": {
+                    "jawaban": "Tidak membutuhkan keamanan tambahan",
+                    "status": false,
+                    "penjelasan": "Sistem database tetap membutuhkan sistem keamanan yang kuat."
+                },
+                "d": {
+                    "jawaban": "Hanya dapat diakses oleh satu pengguna",
+                    "status": false,
+                    "penjelasan": "Sistem database memungkinkan banyak pengguna mengakses data secara bersamaan."
+                }
+            }
+        },
+        "soal_59": {
+            "pertanyaan": "Teknologi apa yang paling umum digunakan dalam sistem informasi digital modern?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Cloud computing, AI, dan API",
+                    "status": true,
+                    "penjelasan": "Teknologi ini mendukung efisiensi, otomatisasi, dan integrasi dalam sistem informasi modern."
+                },
+                "b": {
+                    "jawaban": "Floppy disk dan CD-ROM",
+                    "status": false,
+                    "penjelasan": "Teknologi ini sudah jarang digunakan dalam sistem informasi modern."
+                },
+                "c": {
+                    "jawaban": "Mesin ketik dan kertas",
+                    "status": false,
+                    "penjelasan": "Mesin ketik dan kertas termasuk dalam sistem informasi tradisional."
+                },
+                "d": {
+                    "jawaban": "Hanya komputer tanpa internet",
+                    "status": false,
+                    "penjelasan": "Sistem modern sangat bergantung pada jaringan internet."
+                }
+            }
+        },
+        "soal_60": {
+            "pertanyaan": "Bagaimana sistem informasi modern mempermudah pengelolaan data dibandingkan sistem tradisional?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Menggunakan teknologi digital untuk otomatisasi dan analisis data",
+                    "status": true,
+                    "penjelasan": "Sistem modern mengurangi pekerjaan manual dengan otomatisasi dan analisis data yang canggih."
+                },
+                "b": {
+                    "jawaban": "Menghilangkan kebutuhan akan keamanan data",
+                    "status": false,
+                    "penjelasan": "Keamanan data tetap penting dalam sistem informasi modern."
+                },
+                "c": {
+                    "jawaban": "Hanya dapat digunakan oleh perusahaan besar",
+                    "status": false,
+                    "penjelasan": "Sistem modern dapat digunakan oleh berbagai skala bisnis, termasuk UMKM."
+                },
+                "d": {
+                    "jawaban": "Menggantikan semua pekerjaan manusia",
+                    "status": false,
+                    "penjelasan": "Sistem informasi modern membantu manusia, bukan menggantikannya sepenuhnya."
+                }
+            }
+        },
+        "soal_61": {
+            "pertanyaan": "Apa manfaat utama sistem informasi dalam efisiensi operasional?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Mengurangi pekerjaan manual dan meningkatkan otomatisasi",
+                    "status": true,
+                    "penjelasan": "Sistem informasi membantu mengurangi pekerjaan manual dengan otomatisasi proses."
+                },
+                "b": {
+                    "jawaban": "Meningkatkan jumlah tenaga kerja yang dibutuhkan",
+                    "status": false,
+                    "penjelasan": "Efisiensi operasional justru bertujuan untuk mengoptimalkan sumber daya."
+                },
+                "c": {
+                    "jawaban": "Menghapus kebutuhan akan pengawasan",
+                    "status": false,
+                    "penjelasan": "Pengawasan tetap diperlukan meskipun ada sistem informasi."
+                },
+                "d": {
+                    "jawaban": "Menambah biaya operasional secara signifikan",
+                    "status": false,
+                    "penjelasan": "Sistem informasi justru membantu mengurangi biaya operasional."
+                }
+            }
+        },
+        "soal_62": {
+            "pertanyaan": "Bagaimana sistem informasi meningkatkan akurasi data?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Dengan mengurangi kesalahan manusia dalam pengolahan data",
+                    "status": true,
+                    "penjelasan": "Sistem informasi dapat mengotomatiskan proses dan mengurangi risiko kesalahan manusia."
+                },
+                "b": {
+                    "jawaban": "Dengan menambahkan lebih banyak pekerjaan manual",
+                    "status": false,
+                    "penjelasan": "Pekerjaan manual justru meningkatkan risiko kesalahan."
+                },
+                "c": {
+                    "jawaban": "Dengan mengandalkan input data tanpa validasi",
+                    "status": false,
+                    "penjelasan": "Sistem informasi umumnya memiliki mekanisme validasi untuk memastikan akurasi data."
+                },
+                "d": {
+                    "jawaban": "Dengan membiarkan semua data diubah tanpa pembatasan",
+                    "status": false,
+                    "penjelasan": "Keamanan dan kontrol akses penting untuk menjaga akurasi data."
+                }
+            }
+        },
+        "soal_63": {
+            "pertanyaan": "Mengapa sistem informasi membantu dalam pengambilan keputusan yang lebih baik?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Karena menyediakan data yang akurat dan analisis real-time",
+                    "status": true,
+                    "penjelasan": "Sistem informasi memberikan informasi yang lebih cepat dan akurat untuk mendukung keputusan."
+                },
+                "b": {
+                    "jawaban": "Karena menggantikan semua keputusan manusia",
+                    "status": false,
+                    "penjelasan": "Keputusan tetap dibuat oleh manusia berdasarkan informasi yang disediakan sistem."
+                },
+                "c": {
+                    "jawaban": "Karena menghilangkan risiko kesalahan sepenuhnya",
+                    "status": false,
+                    "penjelasan": "Sistem informasi mengurangi risiko kesalahan tetapi tidak dapat menghilangkannya sepenuhnya."
+                },
+                "d": {
+                    "jawaban": "Karena memungkinkan semua orang memiliki akses tanpa batas",
+                    "status": false,
+                    "penjelasan": "Kontrol akses tetap diperlukan untuk menjaga keamanan data."
+                }
+            }
+        },
+        "soal_64": {
+            "pertanyaan": "Bagaimana sistem informasi dapat membantu perusahaan dalam mendapatkan keunggulan kompetitif?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Dengan menyediakan informasi yang lebih cepat dan akurat",
+                    "status": true,
+                    "penjelasan": "Kecepatan dan akurasi informasi membantu perusahaan bersaing lebih baik."
+                },
+                "b": {
+                    "jawaban": "Dengan menghilangkan kebutuhan untuk inovasi",
+                    "status": false,
+                    "penjelasan": "Inovasi tetap penting meskipun sistem informasi digunakan."
+                },
+                "c": {
+                    "jawaban": "Dengan mengurangi ketergantungan pada strategi bisnis",
+                    "status": false,
+                    "penjelasan": "Sistem informasi mendukung strategi bisnis, bukan menggantikannya."
+                },
+                "d": {
+                    "jawaban": "Dengan meningkatkan biaya operasional",
+                    "status": false,
+                    "penjelasan": "Sistem informasi justru dapat mengurangi biaya dengan meningkatkan efisiensi."
+                }
+            }
+        },
+        "soal_65": {
+            "pertanyaan": "Apa salah satu manfaat utama sistem informasi dalam penghematan biaya?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Mengurangi biaya tenaga kerja dan operasional melalui otomatisasi",
+                    "status": true,
+                    "penjelasan": "Otomatisasi proses bisnis dapat mengurangi biaya yang dikeluarkan untuk tenaga kerja dan operasional."
+                },
+                "b": {
+                    "jawaban": "Menambah jumlah perangkat yang dibutuhkan",
+                    "status": false,
+                    "penjelasan": "Sistem informasi justru mengoptimalkan penggunaan perangkat."
+                },
+                "c": {
+                    "jawaban": "Menghapus kebutuhan untuk pelatihan karyawan",
+                    "status": false,
+                    "penjelasan": "Pelatihan tetap diperlukan untuk mengoptimalkan penggunaan sistem informasi."
+                },
+                "d": {
+                    "jawaban": "Meningkatkan kompleksitas pengelolaan data",
+                    "status": false,
+                    "penjelasan": "Sistem informasi justru menyederhanakan pengelolaan data."
+                }
+            }
+        },
+        "soal_66": {
+            "pertanyaan": "Bagaimana sistem informasi dapat meningkatkan efisiensi operasional?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Dengan mengurangi redundansi proses dan mempercepat eksekusi tugas",
+                    "status": true,
+                    "penjelasan": "Sistem informasi memungkinkan otomatisasi dan integrasi yang mengurangi waktu dan usaha yang diperlukan dalam operasional."
+                },
+                "b": {
+                    "jawaban": "Dengan menambahkan lebih banyak langkah manual untuk memastikan keakuratan",
+                    "status": false,
+                    "penjelasan": "Sistem informasi justru bertujuan mengurangi langkah manual dengan otomatisasi."
+                },
+                "c": {
+                    "jawaban": "Dengan menggantikan semua peran manusia dalam proses operasional",
+                    "status": false,
+                    "penjelasan": "Sistem informasi mendukung manusia, bukan menggantikan sepenuhnya."
+                },
+                "d": {
+                    "jawaban": "Dengan meningkatkan kompleksitas sistem sehingga lebih banyak data bisa diproses",
+                    "status": false,
+                    "penjelasan": "Efisiensi tidak selalu berkaitan dengan kompleksitas yang meningkat."
+                }
+            }
+        },
+        "soal_67": {
+            "pertanyaan": "Dalam konteks peningkatan akurasi data, bagaimana peran sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Menyediakan mekanisme validasi data secara otomatis untuk mengurangi kesalahan",
+                    "status": true,
+                    "penjelasan": "Sistem informasi dapat mendeteksi dan mencegah kesalahan data dengan validasi otomatis."
+                },
+                "b": {
+                    "jawaban": "Mengharuskan pengguna untuk selalu memasukkan data secara manual untuk memastikan keakuratan",
+                    "status": false,
+                    "penjelasan": "Manual input justru meningkatkan risiko kesalahan manusia."
+                },
+                "c": {
+                    "jawaban": "Memastikan semua data yang masuk selalu benar tanpa perlu pengecekan",
+                    "status": false,
+                    "penjelasan": "Sistem informasi membantu, tetapi tidak bisa menjamin semua data selalu benar."
+                },
+                "d": {
+                    "jawaban": "Menghilangkan kebutuhan penyimpanan data karena semua data dapat langsung diproses",
+                    "status": false,
+                    "penjelasan": "Penyimpanan data tetap diperlukan untuk referensi dan analisis."
+                }
+            }
+        },
+        "soal_68": {
+            "pertanyaan": "Apa dampak sistem informasi terhadap pengambilan keputusan?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Mempercepat proses pengambilan keputusan dengan menyediakan data yang lebih akurat",
+                    "status": true,
+                    "penjelasan": "Sistem informasi memberikan akses ke data real-time yang mendukung pengambilan keputusan cepat dan tepat."
+                },
+                "b": {
+                    "jawaban": "Menghilangkan kebutuhan untuk analisis manusia karena semua keputusan bisa dibuat otomatis",
+                    "status": false,
+                    "penjelasan": "Meskipun sistem informasi membantu, analisis manusia tetap diperlukan untuk keputusan strategis."
+                },
+                "c": {
+                    "jawaban": "Meningkatkan ketidakpastian dalam keputusan karena terlalu banyak informasi",
+                    "status": false,
+                    "penjelasan": "Sistem informasi justru membantu mengorganisir informasi agar lebih mudah digunakan."
+                },
+                "d": {
+                    "jawaban": "Mengurangi fleksibilitas dalam pengambilan keputusan karena semuanya harus mengikuti sistem",
+                    "status": false,
+                    "penjelasan": "Sistem informasi mendukung fleksibilitas dengan memberikan berbagai alternatif keputusan."
+                }
+            }
+        },
+        "soal_69": {
+            "pertanyaan": "Apa hubungan antara penghematan biaya dan sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Mengurangi biaya operasional dengan mengotomatiskan proses bisnis",
+                    "status": true,
+                    "penjelasan": "Otomatisasi mengurangi kebutuhan tenaga kerja manual dan meningkatkan efisiensi."
+                },
+                "b": {
+                    "jawaban": "Meningkatkan biaya karena membutuhkan investasi awal yang besar",
+                    "status": false,
+                    "penjelasan": "Meskipun ada investasi awal, manfaat jangka panjang biasanya lebih besar."
+                },
+                "c": {
+                    "jawaban": "Memastikan bahwa perusahaan tidak perlu lagi mengeluarkan biaya untuk pemeliharaan",
+                    "status": false,
+                    "penjelasan": "Sistem tetap memerlukan pemeliharaan agar berjalan optimal."
+                },
+                "d": {
+                    "jawaban": "Meningkatkan biaya tenaga kerja karena perlu pelatihan tambahan",
+                    "status": false,
+                    "penjelasan": "Pelatihan diperlukan, tetapi secara keseluruhan biaya tenaga kerja bisa berkurang."
+                }
+            }
+        },
+        "soal_70": {
+            "pertanyaan": "Bagaimana sistem informasi memberikan keunggulan kompetitif?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Dengan memberikan akses lebih cepat ke data yang relevan",
+                    "status": true,
+                    "penjelasan": "Akses cepat ke informasi memungkinkan perusahaan untuk merespons pasar dengan lebih baik."
+                },
+                "b": {
+                    "jawaban": "Dengan memastikan bahwa semua pesaing tidak dapat mengakses informasi",
+                    "status": false,
+                    "penjelasan": "Keunggulan kompetitif bukan tentang menahan informasi dari pesaing, tetapi menggunakannya lebih baik."
+                },
+                "c": {
+                    "jawaban": "Dengan menggantikan semua proses bisnis manual dengan otomatisasi penuh",
+                    "status": false,
+                    "penjelasan": "Tidak semua proses bisa atau harus sepenuhnya otomatis."
+                },
+                "d": {
+                    "jawaban": "Dengan membuat perusahaan lebih bergantung pada teknologi tanpa fleksibilitas alternatif",
+                    "status": false,
+                    "penjelasan": "Fleksibilitas tetap penting dalam strategi bisnis meskipun menggunakan sistem informasi."
+                }
+            }
+        },
+        "soal_71": {
+            "pertanyaan": "Mengapa efisiensi operasional menjadi salah satu manfaat utama dari sistem informasi?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Karena sistem informasi menghilangkan semua bentuk pekerjaan manusia dalam operasional",
+                    "status": false,
+                    "penjelasan": "Sistem informasi mengoptimalkan pekerjaan manusia, bukan menggantikannya sepenuhnya."
+                },
+                "b": {
+                    "jawaban": "Karena sistem informasi dapat mengurangi waktu dan sumber daya yang dibutuhkan untuk menyelesaikan tugas",
+                    "status": true,
+                    "penjelasan": "Dengan otomatisasi dan integrasi, sistem informasi mempercepat proses kerja dan mengurangi kebutuhan sumber daya."
+                },
+                "c": {
+                    "jawaban": "Karena sistem informasi dapat menggandakan pekerjaan agar lebih cepat selesai",
+                    "status": false,
+                    "penjelasan": "Efisiensi bukan tentang menggandakan pekerjaan, tetapi mengoptimalkan proses."
+                },
+                "d": {
+                    "jawaban": "Karena sistem informasi meningkatkan jumlah pegawai yang diperlukan untuk menyelesaikan tugas",
+                    "status": false,
+                    "penjelasan": "Sebaliknya, sistem informasi biasanya mengurangi kebutuhan pegawai untuk tugas rutin."
+                }
+            }
+        },
+        "soal_72": {
+            "pertanyaan": "Apa peran sistem informasi dalam meningkatkan keakuratan data?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Menghapus semua data lama dan menggantinya dengan data baru secara berkala",
+                    "status": false,
+                    "penjelasan": "Sistem informasi menjaga data tetap akurat tanpa harus menghapus semuanya."
+                },
+                "b": {
+                    "jawaban": "Menyediakan mekanisme validasi dan verifikasi otomatis untuk mengurangi kesalahan input",
+                    "status": true,
+                    "penjelasan": "Validasi dan verifikasi otomatis membantu mencegah kesalahan data sejak awal."
+                },
+                "c": {
+                    "jawaban": "Memastikan bahwa data yang salah tidak akan pernah masuk ke dalam sistem",
+                    "status": false,
+                    "penjelasan": "Meskipun sistem informasi mengurangi kesalahan, tetap ada kemungkinan data salah masuk."
+                },
+                "d": {
+                    "jawaban": "Membuat pengguna lebih berhati-hati dalam memasukkan data tanpa bantuan teknologi",
+                    "status": false,
+                    "penjelasan": "Justru sistem informasi mendukung pengguna dalam memastikan akurasi data."
+                }
+            }
+        },
+        "soal_73": {
+            "pertanyaan": "Apa dampak sistem informasi terhadap pengambilan keputusan?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Membantu menyediakan informasi yang lebih akurat dan cepat untuk pengambilan keputusan",
+                    "status": true,
+                    "penjelasan": "Sistem informasi memungkinkan akses real-time ke data, sehingga meningkatkan kualitas keputusan."
+                },
+                "b": {
+                    "jawaban": "Membuat keputusan menjadi lebih sulit karena terlalu banyak informasi",
+                    "status": false,
+                    "penjelasan": "Meskipun banyak informasi, sistem informasi juga menyediakan alat analisis untuk membantu pemahaman data."
+                },
+                "c": {
+                    "jawaban": "Menghilangkan kebutuhan manusia dalam proses pengambilan keputusan",
+                    "status": false,
+                    "penjelasan": "Keputusan tetap memerlukan pertimbangan manusia, meskipun didukung oleh sistem informasi."
+                },
+                "d": {
+                    "jawaban": "Memperlambat proses pengambilan keputusan karena data harus dianalisis lebih mendalam",
+                    "status": false,
+                    "penjelasan": "Sistem informasi justru mempercepat proses dengan menyediakan analisis otomatis."
+                }
+            }
+        },
+        "soal_74": {
+            "pertanyaan": "Mengapa sistem informasi dapat membantu penghematan biaya dalam perusahaan?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Karena sistem informasi dapat menghilangkan semua biaya operasional perusahaan",
+                    "status": false,
+                    "penjelasan": "Tidak semua biaya bisa dihilangkan, tetapi sistem informasi mengurangi pengeluaran yang tidak perlu."
+                },
+                "b": {
+                    "jawaban": "Karena sistem informasi memungkinkan otomatisasi tugas yang sebelumnya dilakukan secara manual",
+                    "status": true,
+                    "penjelasan": "Otomatisasi mengurangi biaya tenaga kerja dan meningkatkan efisiensi, sehingga biaya operasional berkurang."
+                },
+                "c": {
+                    "jawaban": "Karena sistem informasi mengurangi kebutuhan pelatihan bagi karyawan",
+                    "status": false,
+                    "penjelasan": "Pelatihan tetap dibutuhkan untuk menggunakan sistem dengan efektif."
+                },
+                "d": {
+                    "jawaban": "Karena sistem informasi hanya berfungsi untuk perusahaan besar dengan biaya besar",
+                    "status": false,
+                    "penjelasan": "Sistem informasi dapat digunakan oleh semua jenis perusahaan, bukan hanya perusahaan besar."
+                }
+            }
+        },
+        "soal_75": {
+            "pertanyaan": "Bagaimana sistem informasi membantu dalam meningkatkan keunggulan kompetitif?",
+            "pilihan": {
+                "a": {
+                    "jawaban": "Dengan memberikan data real-time yang dapat digunakan untuk analisis pasar dan strategi bisnis",
+                    "status": true,
+                    "penjelasan": "Data real-time memungkinkan perusahaan mengambil keputusan cepat dan akurat untuk tetap kompetitif."
+                },
+                "b": {
+                    "jawaban": "Dengan membatasi akses informasi hanya untuk manajemen atas",
+                    "status": false,
+                    "penjelasan": "Keunggulan kompetitif didapat dari berbagi informasi secara efektif, bukan membatasinya."
+                },
+                "c": {
+                    "jawaban": "Dengan memastikan bahwa pesaing tidak bisa menggunakan teknologi yang sama",
+                    "status": false,
+                    "penjelasan": "Keunggulan kompetitif tidak berasal dari membatasi pesaing, tetapi dari inovasi dan efisiensi."
+                },
+                "d": {
+                    "jawaban": "Dengan mengurangi jumlah karyawan agar lebih efisien",
+                    "status": false,
+                    "penjelasan": "Keunggulan kompetitif lebih berkaitan dengan strategi bisnis, bukan sekadar mengurangi tenaga kerja."
+                }
+            }
+        }
+    }
+    
